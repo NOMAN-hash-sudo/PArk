@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1761037065 source:c:\src\src\openglportable\openglportable\main.cpp
+	<GL/glut.h>
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1769048236 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\environment.cpp
+	"Environment.h"
+
+1769048226 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\environment.h
+	"Global.h"
+
+1769048199 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\global.h
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1766991970 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1766991970 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1769048217 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\global.cpp
+	"Global.h"
+
+1769053092 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\rides.cpp
+	"globals.h"
+	"rides.h"
+
+1769053100 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\rides.h
+
+1769047672 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\virtualpark.cpp
+	"VirtualPark.h"
+	<iostream>
+
+1769047661 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\virtualpark.h
+	<vector>
+	"Environment.h"
+	"Rides.h"
+	"Stall.h"
+	"LampPost.h"
+
+1769053169 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+	<iostream>
+	"globals.h"
+	"background.h"
+	"rides.h"
+	"stall.h"
+	"human.h"
+
+1769053069 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\stall.cpp
+	"globals.h"
+	"stall.h"
+
+1769053078 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\stall.h
+
+1769048372 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\actors.cpp
+	"Actors.h"
+
+1769048349 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\actors.h
+	"Structures.h"
+	<vector>
+
+1769048265 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\structures.h
+	"Global.h"
+
+1769047621 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\lamppost.cpp
+	"LampPost.h"
+
+1769047606 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\lamppost.h
+	"Global.h"
+
+1769048286 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\structures.cpp
+	"Structures.h"
+
+1769048421 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\parkmanager.h
+	<vector>
+	"Environment.h"
+	"Actors.h"
+	"Structures.h"
+
+1769048442 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\parkmanager.cpp
+	"ParkManager.h"
+
+1769053111 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\background.cpp
+	"globals.h"
+	"background.h"
+
+1769053133 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\globals.h
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1769053116 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\background.h
+
+1769053124 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\globals.cpp
+	"globals.h"
+
+1769053038 source:c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\human.cpp
+	"globals.h"
+	"human.h"
+
+1769053030 c:\users\lenovo pc\documents\openglportable-64bit\openglportable-64bit\openglportable-64bit\openglportable\human.h
+
